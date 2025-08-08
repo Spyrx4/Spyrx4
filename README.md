@@ -1,5 +1,5 @@
-## Hi there 👋
-
+# ✨ Hello, I'm Supryadin ✨
+![Supryadin](img/github-header-banner.png)
 <!--
 **Spyrx4/Spyrx4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
