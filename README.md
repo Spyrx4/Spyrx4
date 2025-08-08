@@ -1,4 +1,4 @@
-![Supryadin](img/github-header-banner.png)
+![Supryadin](img/github-header-banner-spry.png)
 
 # ✨ Hello, I'm Supryadin ✨
 
