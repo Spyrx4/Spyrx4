@@ -49,11 +49,9 @@
 
 ###
 
-
 [![](https://visitcount.itsvg.in/api?id=Spyrx4&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spyrx4&label=Profile%20views&color=0e75b6&style=flat" alt="spyrx4" /> </p>
-
 
 <img src="https://raw.githubusercontent.com/Spyrx4/Spyrx4/output/snake.svg" alt="Snake animation" />
 
