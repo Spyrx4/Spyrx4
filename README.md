@@ -6,6 +6,12 @@
 
 ---
 
+###
+
+<img align="right" height="200" src="img/haewon.gif"  />
+
+###
+
 ## 🌐 Socials:
 
 <p align="left">
