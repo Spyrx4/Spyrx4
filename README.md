@@ -10,7 +10,7 @@
 
 <p align="left">
 <a href="https://linkedin.com/in/spryx4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="spryx4" height="30" width="40" /></a>
-<a href="https://fb.com/sprydn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sprydn" height="30" width="40" /></a>
+<a href="https://fb.com/adin.rap.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="adin.rap.7" height="30" width="40" /></a>
 <a href="https://instagram.com/spryxz_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="spryxz_" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@Spryx4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="spryx4" height="30" width="40" /></a>
 </p>
