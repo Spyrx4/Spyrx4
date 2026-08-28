@@ -1,6 +1,6 @@
 ![Supryadin](img/github-header-banner-spry.png)
 
-# ✨ Hello, I'm Supryadin ✨
+# ADIN
 
 ### I'm a student of information systems, and I'm currently studying artificial intelligence (AI).</h3>
 
